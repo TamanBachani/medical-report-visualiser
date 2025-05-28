@@ -45,7 +45,8 @@ You can try the deployed version here:
 
 | Upload Flow | Extracted Data Confirmation | Report Visualisation |
 |-------------|-----------------------------|----------------------|
-| ![Upload](assets/upload.png) | ![Modal](assets/confirm.png) | ![Report](assets/visualisation.png) |
+| ![Upload](assets/upload-page.png) | ![Modal](assets/confirmation-modal.png) | ![Report](assets/visualisation-page.png) |
+
 
 ---
 
