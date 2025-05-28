@@ -10,9 +10,9 @@ A full-stack AI-powered web application that helps patients understand their med
 
 ## 🌐 Live Demo
 You can try the deployed version here:
-🔗 Medical Report Visualiser – Live Web App
+🔗 [Medical Report Visualiser – Live Web App]([url](https://mrv-30ra.onrender.com/))
 
-⚠️ Note: The app works best on desktop and is currently optimized for blood glucose PDF reports only.
+⚠️ Note: The app works best on desktop and is currently optimised for blood glucose PDF reports only.
 
 ---
 
