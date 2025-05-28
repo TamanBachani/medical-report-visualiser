@@ -43,12 +43,13 @@ A full-stack AI-powered web application that helps patients understand their med
 
 ## 📂 Codebase Access
 
-This repo serves as a **showcase page only**. The source code is split between two live repositories:
+This repository serves as a showcase page only.
 
-- 🔗 [mrv (frontend)](https://github.com/tamanbachani/mrv)  
-- 🔗 [mrv-server (backend)](https://github.com/tamanbachani/mrv-server)
+⚠️ The original code repositories (mrv and mrv-server) are private due to deployment dependencies and production constraints.
 
-> ⚠️ *Note: These are live-deployed services and not actively maintained. Making changes directly to them could break production links.*
+If you're interested in the codebase or would like to collaborate, feel free to reach out directly.
+
+📧 workwith.taman@gmail.com
 
 ---
 
