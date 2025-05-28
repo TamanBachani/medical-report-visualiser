@@ -19,7 +19,7 @@ You can try the deployed version here:
 ## 🎬 Project Demo
 
 [![Watch the demo](https://img.youtube.com/vi/vIpQMA6TQqc/0.jpg)](https://www.youtube.com/watch?v=vIpQMA6TQqc)  
-👉 Click to watch a 3-minute walkthrough on YouTube.
+👉 Click to watch a 1-minute walkthrough on YouTube.
 
 ---
 
