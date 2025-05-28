@@ -8,6 +8,14 @@ A full-stack AI-powered web application that helps patients understand their med
 
 ---
 
+## 🌐 Live Demo
+You can try the deployed version here:
+🔗 Medical Report Visualiser – Live Web App
+
+⚠️ Note: The app works best on desktop and is currently optimized for blood glucose PDF reports only.
+
+---
+
 ## 🎬 Project Demo
 
 [![Watch the demo](https://img.youtube.com/vi/vIpQMA6TQqc/0.jpg)](https://www.youtube.com/watch?v=vIpQMA6TQqc)  
