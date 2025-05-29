@@ -1,6 +1,4 @@
-# Medical Report Visualiser - AN AI TOOL
-
-# 🧠 Medical Report Visualiser
+# 🧠 Medical Report Visualiser - AN AI TOOL
 
 A full-stack AI-powered web application that helps patients understand their medical blood glucose reports through OCR-based data extraction and dynamic visualisation. Built using **React**, **Node.js**, and **Tesseract OCR**, this tool simplifies health data for better accessibility and medical autonomy.
 
